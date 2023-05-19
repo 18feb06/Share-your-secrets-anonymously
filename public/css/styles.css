@@ -14,3 +14,12 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.btn-google{
+  background-color: #b54c4c;
+  color: #fff;
+}
+.btn-facebook{
+  background-color: #4343ff;
+  color: #fff;
+}
